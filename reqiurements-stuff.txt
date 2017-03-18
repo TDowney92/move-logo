@@ -1,0 +1,22 @@
+Web graphic logo stuff:
+
+
+- 1 element motion introduced
+
+- white version and a multicoloured version
+
+- transistion time is less than 10 seconds
+
+- introduce logo on a landing page
+
+- use css, javascript, svg 
+
+- due at march 19 @ 11:59pm
+
+- submit through Slack, send link in Slack
+
+- use my logo desing for my website
+
+- outof 6 marks = 6% of final grade
+
+-   

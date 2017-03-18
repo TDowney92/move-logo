@@ -1,0 +1,58 @@
+html {
+	background: tan;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2.5em;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding: 25px;
+	border-bottom: solid 5px #6D929B;
+}
+
+
+ /* White logo */
+#white{
+	padding: 150px;
+	background: black;
+}
+
+#white h2 {
+	border: 3px solid white;
+	width: 50%;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	padding: 75px;
+	opacity: 1;
+	transition: opacity 2s linear;
+}
+
+#white a {
+	text-decoration: none;
+}
+
+/* colour logo  */
+
+#color{
+	padding: 150px;
+	background: black;
+}
+
+#color h2 {
+	border: 3px solid #7F1917;
+	width: 50%;
+	font-family: 'Raleway', sans-serif;
+	color: #7F1917;
+	padding: 75px;
+}
+
+#color a {
+	text-decoration: none;
+}
+
+
+/* all logo animation */
+ #white h2.on {
+	opacity: 0;
+	transition: all 2s linear;
+}
